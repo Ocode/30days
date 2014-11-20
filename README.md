@@ -30,6 +30,12 @@ Learning 30 Technologies in 30 Days: A Developer Challeng
 - [HTML5 识别语音相关知识]()
     - [Note: HTML5 识别语音相关的一些资源](http://segmentfault.com/blog/jiyinyiyong/1190000000418680)
 - [NodeJs 的使用]()
+- [TogetherJS —— 让我们一起来编程！]
+- [编写 Google Chrome 扩展程序]()
+- [Tesseract-OCR 字符识别]()
+- [Docker 入门教程]()
+- [BigQuery 入门教程](http://www.tudou.com/programs/view/205h9BvigGs/)
+
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) 有这个，够学好一阵了
 
 ====================  华丽的分割线  ========================

@@ -5,7 +5,16 @@
 
 [学习内容的slide](https://github.com/Ocode/gdg14/tree/dev)
 
-之后整合转移到 [polymer-proj](https://github.com/Ocode/polymer-proj) 继续学习
+### 学习内容
+
+建议按照以下进度来学习
+
+- [Polymer tutorial](http://docs.polymerchina.org/docs/start/tutorial/intro.html)
+- [Polymer使用经验分享](http://www.topthink.com/topic/2673.html)
+- [Polymer API开发指南 (一)（翻译）](http://segmentfault.com/blog/windwhinny/1190000000592324)
+- [Polymer API开发指南 (二)（翻译）](http://segmentfault.com/blog/windwhinny/1190000000596258)
+
+之后整合转移到 [polymer-proj](https://github.com/Ocode/polymer-proj) 
 
 发现一篇文章总结的不错，也分享给大家下
 

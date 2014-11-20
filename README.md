@@ -16,11 +16,21 @@ Learning 30 Technologies in 30 Days: A Developer Challeng
 
 究其原因一方面自己比较懒，另一方面是下面的计划是在作者的知识背景下的，在我学来，就有不小差异，我学习了第一天和第二天，下面就有点进展不下去了，所以我继续学习我的东西，我指定自己的学习目标。
 
-### 我的学习计划
+### 我的学习
 
 - 2014.10.29 - [Day 1: Bower——管理你的客户端依赖关系](http://segmentfault.com/a/1190000000349555)
 - 2014.10.30 - [Day 2: AngularJS —— 对 AngularJS 的初步认识](http://segmentfault.com/a/1190000000350125)
 - 2014.11.01 - [Day 3: Polymer —— 了解使用Polymer]()
+
+### 计划学习
+
+- [hexo 搭建 markdown Blog]()
+- [GruntJS 打包批处理]()
+- [AngularJS 深入了解并开发 App]()
+- [HTML5 识别语音相关知识]()
+    - [Note: HTML5 识别语音相关的一些资源](http://segmentfault.com/blog/jiyinyiyong/1190000000418680)
+- [NodeJs 的使用]()
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) 有这个，够学好一阵了
 
 ====================  华丽的分割线  ========================
 

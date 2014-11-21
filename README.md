@@ -34,9 +34,12 @@ Learning 30 Technologies in 30 Days: A Developer Challeng
 - [编写 Google Chrome 扩展程序]()
 - [Tesseract-OCR 字符识别]()
 - [Docker 入门教程]()
+- [Yeoman的三大成员：Yo、Grunt和Bower](http://blog.bingo929.com/yeoman-grunt-bower-polymer-web-components-javascript-create-web-app.html)
 - [BigQuery 入门教程](http://www.tudou.com/programs/view/205h9BvigGs/)
 
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) 有这个，够学好一阵了
+- [**代码之谜**(其实，你不懂代码)](http://justjavac.com/codepuzzle.html)
+
 
 ====================  华丽的分割线  ========================
 
